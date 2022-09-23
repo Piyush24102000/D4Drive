@@ -28,7 +28,7 @@ export default function Navbar() {
             <nav className=" navbar navbar-light bg-dark  ">
                 <a className="navbar-brand">D4Drive</a>
                 <form className="form-inline">
-                    <h4>{ac1}</h4>
+                    <h4>Goerli-{ac1}</h4>
                 </form>
             </nav>
 
